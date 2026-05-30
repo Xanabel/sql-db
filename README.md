@@ -22,19 +22,19 @@ sql-db/
 │
 ├── databases/
 │   ├── 1_vehicles/
-│   │   ├── shema.sql
+│   │   ├── scheme.sql
 │   │   └── data.sql
 │   │
 │   ├── 2_racing/
-│   │   ├── shema.sql
+│   │   ├── scheme.sql
 │   │   └── data.sql
 │   │
 │   ├── 3_hotels/
-│   │   ├── shema.sql
+│   │   ├── scheme.sql
 │   │   └── data.sql
 │   │
 │   └── 4_organization/
-│       ├── shema.sql
+│       ├── scheme.sql
 │       └── data.sql
 │
 └── solutions/
