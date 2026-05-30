@@ -14,25 +14,27 @@ SQL Database Practice
 ## Для каждой базы данных представлены скрипты создания таблиц, наполнения тестовыми данными и отдельные SQL-запросы для решения поставленных задач.
 
 ## Структура репозитория
+
+```text
 sql-db/
 │
 ├── README.md
 │
 ├── databases/
 │   ├── 1_vehicles/
-│   │   ├── schema.sql
+│   │   ├── shema.sql
 │   │   └── data.sql
 │   │
 │   ├── 2_racing/
-│   │   ├── schema.sql
+│   │   ├── shema.sql
 │   │   └── data.sql
 │   │
 │   ├── 3_hotels/
-│   │   ├── schema.sql
+│   │   ├── shema.sql
 │   │   └── data.sql
 │   │
 │   └── 4_organization/
-│       ├── schema.sql
+│       ├── shema.sql
 │       └── data.sql
 │
 └── solutions/
@@ -56,6 +58,7 @@ sql-db/
         ├── task1.sql
         ├── task2.sql
         └── task3.sql
+```
 
 ## Используемые технологии
 SQL
